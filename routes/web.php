@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Frontend\{CartController, FrontendController,WishListController,CheckoutController, OrderController, UserController};
 use App\Http\Controllers\Admin\{DashboardController,SettingController,CategoryController,ProductController,ColorController, OrderController as AdminOrderController, SliderController,UserController as AdminUserController};
-use App\Http\Controllers\HomeController;
+use App\Http\Controllers\HomeController; 
 use Illuminate\Support\Facades\Auth;
 
 
