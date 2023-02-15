@@ -105,7 +105,7 @@
 </div>
 
 @push('scripts')
-    <script src="https://www.paypal.com/sdk/js?client-id=AapwHktxeCfHtY72UBFVK0n4nXDqFjaFmK0IPwbhZupL2GW9IkDi1dFx61x0Q1zCU3IvKW8IbQLt6pNA&currency=USD"></script>
+    <script src="https://www.paypal.com/sdk/js?client-id=AeL7P5891TPsfCXvcjita_htFc_aqPs2fTp6NG7mm0yORaVGePAW6fecfrDEi5xNP2olQdCnXG5b2swt&currency=USD"></script>
 
     <script>
         paypal.Buttons({
